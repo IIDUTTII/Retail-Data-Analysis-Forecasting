@@ -1,5 +1,5 @@
 # retail-data-analysis-forecasting
-# Hardware Store Analytics & Inventory Optimization
+# Hardware Store Inventory Optimization, Sales Analysis & Forecasting stocks for next day
 
 ## 📋 Project Overview
 
@@ -130,14 +130,6 @@ A comprehensive data analytics project for **Thakur Das and Sons**, a hardware r
 └── Final Report.pdf         # Complete analysis and recommendations
 ```
 
-## 🏆 Project Achievements
-
-- **Real Business Impact**: Provided actionable insights to actual business owner
-- **Academic Excellence**: Comprehensive analysis meeting IIT standards  
-- **Practical Application**: Bridged gap between theory and real-world problems
-- **Predictive Success**: Built working forecasting model with 12.3% error rate
-- **Data-Driven Solutions**: Transformed gut-feeling decisions into analytical approach
-
 ## 🤝 Stakeholders
 
 - **Business Partner**: Thakur Das and Sons Hardware Store
@@ -145,6 +137,3 @@ A comprehensive data analytics project for **Thakur Das and Sons**, a hardware r
 - **Project Supervisor**: Dr. Aditya Chandel, Dr. Ashwin J. Baliga
 - **Industry Application**: Local hardware retail industry in Himachal Pradesh
 
-***
-
-**This project demonstrates how data science can solve real business problems in traditional retail sectors, combining academic rigor with practical business value creation.**
